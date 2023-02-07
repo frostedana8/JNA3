@@ -481,7 +481,6 @@ a:focus {
 
 // news section
 .news_section {
-
   h2,
   p,
   a {
@@ -711,8 +710,6 @@ a:focus {
   }
 
   .map-box {
-
-
     #map {
       width: 100%;
       height: 100%;
@@ -795,9 +792,6 @@ a:focus {
   p {
     margin: 35px 0 0 0;
   }
-
-
-
 }
 
 // end info section
@@ -821,3 +815,9 @@ a:focus {
 }
 
 /* end footer section*/
+
+/* Modificaciones añadidas */
+
+img#logoPrincipal {
+  width: 75px;
+}
