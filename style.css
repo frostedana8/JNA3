@@ -352,6 +352,8 @@ img {
 
 /* :: 4.0 Header Area CSS */
 .header-area {
+  background-color: black;
+  margin-top: -20px;
   position: absolute;
   z-index: 1000;
   width: 100%;
